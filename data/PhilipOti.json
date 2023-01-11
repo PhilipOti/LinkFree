@@ -1,0 +1,19 @@
+{
+  "name": "Philip Otieno",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "frontend Developer, I love creating astonishing user interfaces",
+  "avatar": "https://github.com/PhilipOti",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/otieno_phill",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://www.linkedin.com/in/philip-otieno/",
+      "icon": "FaLinkedIn"
+    }    
+  ]
+}
